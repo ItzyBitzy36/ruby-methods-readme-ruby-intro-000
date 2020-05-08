@@ -1,5 +1,5 @@
 # Methods in Ruby
-
+''
 ## Overview
 
 In this lesson, we'll introduce methods, distinguish them from data types, and
@@ -199,8 +199,7 @@ greeting # Executing the method again
 
 > **Note**: If you have been using IRB so far, exit out of it before continuing.
 > The remaining portion of this lesson involves bash commands you will need to
-> enter into the terminal.
-
+> enter into the terminal.e
 Let's try making a method we can use over and over. Make a new file called
 `greeting.rb` (you can use: `touch greeting.rb` from your terminal). Put the
 following code in it:
